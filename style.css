@@ -1,0 +1,14 @@
+.jumbotron {
+  padding-top: 10rem;
+  padding-bottom: 0rem;
+  padding-left: 0rem;
+  padding-right: 0rem;
+  background-color: rgb(248, 123, 123);
+}
+
+#galeri {
+  background-color: rgb(248, 123, 123);
+}
+section {
+  padding-top: 5rem;
+}
